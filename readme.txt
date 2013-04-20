@@ -1,9 +1,10 @@
 === Hide Adminbar Button ===
-Contributors: shawnsandy.com 
+Contributors: shawnsandy.com
 Tags: Adminbar, Jquery, Admin
 Requires at least: 3.4
 Tested up to: 3.5.1
 Stable tag: trunk
+License: GPLv2 or later
 
 AdminbarButton is a very simple plugin that hides the bar and adds a small button @ bottom of the site that allows you to show/hide it.
 
@@ -28,6 +29,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 == Changelog ==
 Version 0.1 First CommitThats it simple.
 
-==Readme Generator== 
+==Readme Generator==
 
 This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins.
