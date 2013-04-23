@@ -12,6 +12,17 @@ AdminbarButton is a very simple plugin that hides the bar and adds a small butto
 
 AdminbarButton is a very simple plugin that hides the bar and adds a small button @ bottom of the site that allows you to show/hide it if it gets in your way as it sometimes can! \***|Warning this plugin is wrapped with option(s) free packaging\***|
 
+
+=== Customize the button by adding the following css selector to your stylesheet, this example move it the fifty pixels form the bottom right -
+
+ `#hide-wpadminbar.custom {
+
+        bottom: 50;
+        right 0;
+
+}
+`
+
  
 
 == Installation ==
